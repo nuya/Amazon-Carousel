@@ -1,0 +1,513 @@
+{
+  "asins":[
+      {
+         "asin":"B01DFKC2SO",
+         "title":"Echo Dot (2nd Generation) - Smart speaker with Alexa - Black",
+         "parentAsin":"B01K8B8YA8",
+         "description":"• Echo Dot is a voice-controlled speaker that uses Alexa to play music, control smart home devices, make calls, answer questions, set timers and alarms, and more\n• Play music from Amazon Music, Spotify, Pandora, iHeartRadio, TuneIn, and SiriusXM\n• Call or message family and friends hands-free, or drop in from the Alexa App to your Echo device\n• Controls lights, locks, thermostats, and more with compatible connected devices\n• Use the built-in speaker, or for bigger sound, connect to speakers through Bluetooth or audio cable\n• 30,000+ skills, including Jeopardy!, Lyft, Audible, and Domino's. Always getting smarter and adding new features\n• Hears you from across the room with 7 far-field microphones for hands-free control, even in noisy environments or while playing music",
+         "ratingCount":116208,
+         "rating":4,
+         "ratingExact":4.3,
+         "reviewLink":"/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=sr_1_1/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-1&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Oct 20, 2016",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=sr_1_1/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-1&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B01DFKC2SO",
+               "binding":"",
+               "price":"$49.99"
+            }
+         ],
+         "usedAndNewOffers":{
+            "offerCount":3,
+            "price":"$31.51",
+            "link":"/gp/offer-listing/B01DFKC2SO/ref=sr_1_1_olp/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-1&keywords=amazon+echo",
+            "text":"3 offers from  $31.51"
+         },
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/51wft6OJojL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/61RrCPRq7mL._AC_.jpg",
+         "price":"$49.99"
+      },
+      {
+         "asin":"B06XCM9LJ4",
+         "title":"Echo (2nd Generation) - Smart speaker with Alexa - Charcoal Fabric",
+         "parentAsin":"B07456BG8N",
+         "description":"• Echo connects to Alexa to play music, make calls, set music alarms and timers, ask questions, control smart home devices, and more—instantly.\n• Just ask for a song, artist, or genre from Amazon Music, Spotify, Pandora, and more. With multi-room music, you can play music on compatible Echo devices in different rooms. Echo can also play Audible audiobooks, radio stations, news briefs, and more.\n• Call or message almost anyone hands-free with your Echo device. Also, instantly connect to other Echo devices in your home using just your voice.\n• New speaker, now with Dolby processing for crisp vocals and dynamic bass response. Echo can fill the room with 360° omnidirectional audio. Adjust the treble, mid, and bass levels with your voice.\n• With seven microphones, beamforming technology, and noise cancellation, Echo hears you from any direction—even while music is playing\n• Just ask Alexa to check your calendar, weather, traffic, and sports scores, manage to-do and shopping lists, control your compatible smart lights, thermostats, garage doors, sprinklers, and more\n• Alexa is always getting smarter and adding new features and skills. Just ask Alexa to control your TV, request an Uber, order a pizza, and more.",
+         "ratingCount":30357,
+         "rating":5,
+         "ratingExact":4.5,
+         "reviewLink":"/all-new-amazon-echo-speaker-with-wifi-alexa-dark-charcoal/dp/B06XCM9LJ4/ref=sr_1_2/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-2&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Oct 31, 2017",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/all-new-amazon-echo-speaker-with-wifi-alexa-dark-charcoal/dp/B06XCM9LJ4/ref=sr_1_2/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-2&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B06XCM9LJ4",
+               "binding":"",
+               "price":"$99.99"
+            }
+         ],
+         "usedAndNewOffers":{
+            "offerCount":3,
+            "price":"$66.84",
+            "link":"/gp/offer-listing/B06XCM9LJ4/ref=sr_1_2_olp/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-2&keywords=amazon+echo",
+            "text":"3 offers from  $66.84"
+         },
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/51LtByererL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/51LtByererL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/51QxdikunFL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/61ic1m%2BpjPL._AC_.jpg",
+         "price":"$99.99"
+      },
+      {
+         "asin":"B01J24C0TI",
+         "title":"Echo Show - Black",
+         "parentAsin":"B01KIOU4EO",
+         "description":"• Echo Show brings you everything you love about Alexa, and now she can show you things. Watch video flash briefings, Amazon Video content, see music lyrics, security cameras, photos, weather forecasts, to-do and shopping lists, browse and listen to Audible audiobooks, and more. All hands-free—just ask.\n• Call almost anyone hands-free, or make video calls to family and friends with an Echo Spot, Echo Show, or the Alexa App. Instantly connect to other Echo devices around your home.\n• See lyrics on-screen with Amazon Music. Just ask to play a song, artist or genre, and stream over Wi-Fi. Also, stream music on Pandora, Spotify, TuneIn, iHeartRadio, and more.\n• Powerful, room-filling speakers with Dolby processing for crisp vocals and extended bass response. Play your music simultaneously across Echo devices with multi-room music (Bluetooth not supported). Adjust the treble, mid, and bass levels with your voice.\n• Ask Alexa to show you the front door or monitor the baby's room with compatible cameras from Amazon and others. Turn on lights or the TV, set thermostats, control Amazon Video on Fire TV, and more with WeMo, Philips Hue, Sony, ecobee, and other compatible smart home devices.\n• With eight microphones, beamforming technology, and noise cancellation, Echo Show hears you from any direction—even while music is playing\n• Always getting smarter and adding new features, plus thousands of skills like Uber, Allrecipes, CNN, and more",
+         "ratingCount":14916,
+         "rating":4,
+         "ratingExact":4.2,
+         "reviewLink":"/Amazon-Echo-Show-Alexa-Enabled-Black/dp/B01J24C0TI/ref=sr_1_3/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-3&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Jun 28, 2017",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Amazon-Echo-Show-Alexa-Enabled-Black/dp/B01J24C0TI/ref=sr_1_3/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-3&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B01J24C0TI",
+               "binding":"",
+               "price":"$129.99"
+            }
+         ],
+         "usedAndNewOffers":{
+            "offerCount":2,
+            "price":"$115.69",
+            "link":"/gp/offer-listing/B01J24C0TI/ref=sr_1_3_olp/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-3&keywords=amazon+echo",
+            "text":"2 offers from  $115.69"
+         },
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/51FQBzDZ3VL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/51FQBzDZ3VL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "listPrice":"$229.99",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/51MK1wiLHkL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/618tjabc%2BbL._AC_.jpg",
+         "price":"$129.99"
+      },
+      {
+         "asin":"B073SQYXTW",
+         "title":"Echo Spot - Black",
+         "parentAsin":"B075KZTN4J",
+         "description":"• Echo Spot is designed to fit anywhere in your home. Use 2nd generation far-field voice recognition to watch video flash briefings, see music lyrics, weather forecasts, to-do and shopping lists, browse and listen to Audible audiobooks, and more. All hands-free—just ask.\n• Echo Spot connects to Alexa, a cloud-based voice service to play music, read the news, answer questions, set music alarms, control smart home, and more\n• Just ask to play a song, artist, or genre, and see lyrics with Amazon Music. Also, stream music and books from Pandora, Spotify, TuneIn, iHeartRadio, and Audible.\n• Use the built-in speaker or connect to speakers through Bluetooth or 3.5 mm stereo cable. With multi-room music, you can play music on your Echo devices in different rooms. Adjust the treble, mid, and bass levels with your voice.\n• Ask Alexa to turn on your lights, show baby monitors and front door cameras, and lock your doors. Plus, control your thermostats, garage doors, sprinklers, and more.\n• Call almost anyone hands-free, or make video calls to family and friends with an Echo Spot, Echo Show, or the Alexa App. Instantly connect to other Echo devices around your home.\n• With tens of thousands of skills, Alexa is always getting smarter and adding new features. Just ask Alexa to control your TV, request an Uber, order a pizza, and more.",
+         "ratingCount":5405,
+         "rating":5,
+         "ratingExact":4.5,
+         "reviewLink":"/Amazon-VN94DQ-Echo-Spot-Black/dp/B073SQYXTW/ref=sr_1_4/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-4&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Dec 19, 2017",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Amazon-VN94DQ-Echo-Spot-Black/dp/B073SQYXTW/ref=sr_1_4/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-4&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B073SQYXTW",
+               "binding":"",
+               "price":"$129.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/41+K4pC74XL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/41+K4pC74XL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/5167ER9x1LL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/61jc3jEVb%2BL._AC_.jpg",
+         "price":"$129.99"
+      },
+      {
+         "asin":"B015S1SWLO",
+         "title":"Echo Plus with built-in Hub – Black",
+         "parentAsin":"B07458MP46",
+         "description":"Echo Plus is a simple way to start your smart home. It has a built-in ZigBee smart home hub, which allows for simple and direct setup of compatible ZigBee lights, locks, sensors, plugs, and in-wall switches from brands like Philips Hue, GE, and Yale. No additional hub required. Echo Plus connects to Alexa—a cloud-based voice service—to play music, make calls, set timers and music alarms, ask questions, check traffic and weather, and more—instantly. Just ask for a song, artist, or genre from Amazon Music, Spotify, Pandora, and more. With multi-room music, you can play music on your Echo devices in different rooms. Echo Plus can also play Audible audiobooks, radio stations, news briefs, and more. Call or message almost anyone hands-free with your Echo device. Also, instantly connect to other Echo devices in your home using just your voice. Improved speakers with Dolby processing deliver crisp vocals and extended bass to fill the room with immersive, 360° audio. Adjust the treble, mid, and bass levels with your voice. With seven microphones, beamforming technology, and noise cancellation, Echo hears you from any direction—even while music is playing. Alexa is always getting smarter and adding new features and skills. Just ask Alexa to control your TV, request an Uber, order a pizza, and more.",
+         "ratingCount":6101,
+         "rating":4,
+         "ratingExact":4.3,
+         "reviewLink":"/all-new-amazon-echo-plus-speaker-with-smart-home-hub-black/dp/B015S1SWLO/ref=sr_1_5/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-5&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Oct 31, 2017",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/all-new-amazon-echo-plus-speaker-with-smart-home-hub-black/dp/B015S1SWLO/ref=sr_1_5/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-5&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B015S1SWLO",
+               "price":"$149.99"
+            }
+         ],
+         "usedAndNewOffers":{
+            "offerCount":2,
+            "price":"$95.50",
+            "link":"/gp/offer-listing/B015S1SWLO/ref=sr_1_5_olp/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-5&keywords=amazon+echo",
+            "text":"2 offers from  $95.50"
+         },
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/41sKtl4FWXL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/41sKtl4FWXL._AC_SL800_QL100_.jpg",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/51VRyWIJtOL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/712LS6Oj-%2BL._AC_.jpg",
+         "price":"$149.99"
+      },
+      {
+         "asin":"B071P72R59",
+         "title":"Certified Refurbished All-new Echo (2nd Generation) with improved sound, powered by Dolby, and a new design – Charcoal Fabric",
+         "parentAsin":"B07456BH3F",
+         "description":"A Certified Refurbished Echo is refurbished, tested, and certified to look and work like new. All-new Echo (2nd Gen) has a new speaker, new design, and is available in a range of styles including fabrics and wood veneers. Echo connects to Alexa to play music, make calls, set music alarms and timers, ask questions, control smart home devices, and more—instantly. Just ask for a song, artist, or genre from Amazon Music, Spotify, Pandora, and more. With multi-room music, you can play music on compatible Echo devices in different rooms. Echo can also play audiobooks, radio stations, news briefs, and more.\n• Call or message almost anyone hands-free with your Echo device. Also, instantly connect to other Echo devices in your home using just your voice. New speaker, now with Dolby processing for crisp vocals and dynamic bass response. Echo can fill the room with 360° omnidirectional audio. With seven microphones, beamforming technology, and noise cancellation, Echo hears you from any direction—even while music is playing. Just ask Alexa to check your calendar, weather, traffic, and sports scores, manage to-do and shopping lists, control your compatible smart lights, thermostats, garage doors, sprinklers, and more. Alexa is always getting smarter and adding new features and skills. Just ask Alexa to control your TV, request an Uber, order a pizza, and more.",
+         "ratingCount":175,
+         "rating":4,
+         "ratingExact":4.3,
+         "reviewLink":"/Certified-Refurbished-All-new-Generation-improved/dp/B071P72R59/ref=sr_1_6/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-6&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Feb 16, 2018",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Certified-Refurbished-All-new-Generation-improved/dp/B071P72R59/ref=sr_1_6/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-6&keywords=amazon+echo",
+         "isPrimeEligible":false,
+         "variations":[
+            {
+               "asin":"B071P72R59",
+               "binding":"",
+               "price":"$79.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/51TFnR7AtGL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/51TFnR7AtGL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/51MkPAXLjtL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/61YFUcGqUnL._AC_.jpg",
+         "price":"$79.99"
+      },
+      {
+         "asin":"B077JFMVGP",
+         "title":"Echo Dot Kids Edition, a smart speaker with Alexa for kids - punch red case",
+         "parentAsin":"B078VXSMH3",
+         "description":"Now Alexa is a kid-friendly DJ, comedian, and storyteller — and she’s always getting smarter. Just ask and Alexa will play music, answer questions, read stories, tell jokes, and more — all with younger ears in mind.\n• Up to $109 in savings on Echo Dot (Black), 1 year of Amazon FreeTime Unlimited, and a kid-friendly case, plus a 2-year worry-free guarantee—if they break it, return it and we’ll replace it for free\n• The included 1 year of FreeTime Unlimited gives your kids access to hundreds of hours of fun and educational content, including ad-free radio stations and playlists, Audible books, and a growing list of premium kids skills. After one year, your subscription will automatically renew every month starting at just $2.99/month plus applicable tax. You may cancel any time by visiting the Amazon Parent Dashboard or contacting Customer Service.\n• 1 year of FreeTime Unlimited gives you access to over 300 Audible books for kids, like Beauty & the Beast and Peter Pan, thousands of songs, and kid-favorite games and skills from Disney, National Geographic, Nickelodeon, and more\n• Easy-to-use parental controls in the online Amazon Parent Dashboard let you set daily time limits, review activity, or pause Alexa on the device\n• Kids can control lights, plugs, switches, and more with compatible connected devices\n• Automatically filter explicit songs from Amazon Music or Spotify\n• Call kids to dinner or tell them it’s bedtime from compatible Echo devices in the house. Plus, add approved friends and family for calling and messaging outside the house.",
+         "ratingCount":405,
+         "rating":3,
+         "ratingExact":3.4,
+         "reviewLink":"/amazon-echo-dot-kids-edition/dp/B077JFMVGP/ref=sr_1_7/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-7&keywords=amazon+echo#customerReviews",
+         "releaseDate":"May 9, 2018",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/amazon-echo-dot-kids-edition/dp/B077JFMVGP/ref=sr_1_7/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-7&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B077JFMVGP",
+               "binding":"",
+               "price":"$79.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/41Vi3SDUBHL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/41Vi3SDUBHL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/61IHYbReXwL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/713V6krXNWL._AC_.jpg",
+         "price":"$79.99"
+      },
+      {
+         "asin":"B01BH83OOM",
+         "title":"Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker",
+         "parentAsin":"B077NY27DY",
+         "description":"• Just tap and ask for music from Amazon Music, Spotify, Pandora, iHeartRadio, and TuneIn. Enable hands-free mode to control music and more from a distance.\n• Uses the Alexa Voice Service when connected to Wi-Fi or a mobile hotspot to play music, read the news, provide weather reports, and even order a pizza\n• Provides up to 9 hours of continuous playback (up to 8 hours when in hands-free mode), Charging Cradle included\n• Streams all your music via Bluetooth from your phone or tablet\n• Delivers crisp sound powered by Dolby, with dual stereo speakers that provide 360º omni-directional audio\n• Always getting smarter and adding new features and skills",
+         "ratingCount":7793,
+         "rating":4,
+         "ratingExact":4.1,
+         "reviewLink":"/Amazon-Tap-Portable-Wireless-Bluetooth-Speaker-with-WiFi-Alexa/dp/B01BH83OOM/ref=sr_1_8/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-8&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Jun 8, 2016",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Amazon-Tap-Portable-Wireless-Bluetooth-Speaker-with-WiFi-Alexa/dp/B01BH83OOM/ref=sr_1_8/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-8&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B01BH83OOM",
+               "binding":"",
+               "price":"$129.99"
+            }
+         ],
+         "usedAndNewOffers":{
+            "offerCount":3,
+            "price":"$57.29",
+            "link":"/gp/offer-listing/B01BH83OOM/ref=sr_1_8_olp/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-8&keywords=amazon+echo",
+            "text":"3 offers from  $57.29"
+         },
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/51beahPXzNL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/51beahPXzNL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/61EbYEaWiBL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/71-Il2d8r%2BL._AC_.jpg",
+         "price":"$129.99"
+      },
+      {
+         "asin":"B00Y3QOH5G",
+         "title":"Certified Refurbished Amazon Echo (1st Generation)",
+         "parentAsin":"B06XKZNFXQ",
+         "description":"• A Certified Refurbished Amazon Echo is refurbished, tested, and certified to look and work like new\n• Plays all your music from Amazon Music, Spotify, Pandora, iHeartRadio, TuneIn, and more using just your voice\n• Introducing Alexa calling and messaging, a new way to be together with family and friends. Just ask Alexa to call or message anyone with an Echo, Echo Dot, or the Alexa App.\n• Fills the room with immersive, 360º omni-directional audio\n• Hears you from across the room with far-field voice recognition, even while music is playing\n• Answers questions, reads the news, reports traffic and weather, reads audiobooks from Audible, gives info on local businesses, provides sports scores and schedules, and more using the Alexa Voice Service\n• Controls lights, fans, switches, thermostats, garage doors, sprinklers, locks, and more with compatible connected devices from WeMo, Philips Hue, Samsung SmartThings, Nest, ecobee, and others\n• Always getting smarter and adding new features, plus thousands of skills like Uber, Domino's, DISH, and more",
+         "ratingCount":59622,
+         "rating":4,
+         "ratingExact":4.4,
+         "reviewLink":"/Certified-Refurbished-Amazon-Echo-Generation/dp/B00Y3QOH5G/ref=sr_1_9/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-9&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Jan 1, 2014",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Certified-Refurbished-Amazon-Echo-Generation/dp/B00Y3QOH5G/ref=sr_1_9/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-9&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B00Y3QOH5G",
+               "binding":"",
+               "price":"$79.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/41-v1fozy0L._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/41-v1fozy0L._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/51hhmIr07-L._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/71TtQbuOTgL._AC_.jpg",
+         "price":"$79.99"
+      },
+      {
+         "asin":"B074WR1CGB",
+         "title":"Amazon Echo and Fire TV Power Adapter",
+         "description":"• Official Amazon 21W power adapter for the Amazon Echo Plus, Amazon Echo (1st and 2nd generation) and Amazon Fire TV (2nd generation)\n• 6 foot long cord\n• UL Listed",
+         "ratingCount":76,
+         "rating":4,
+         "ratingExact":4.4,
+         "reviewLink":"/Amazon-Echo-Fire-Power-Adapter/dp/B074WR1CGB/ref=sr_1_10/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-10&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Jan 1, 2014",
+         "type":"product",
+         "group":"digital_accessories_3",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Amazon-Echo-Fire-Power-Adapter/dp/B074WR1CGB/ref=sr_1_10/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-10&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B074WR1CGB",
+               "binding":"",
+               "price":"$19.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/410eVXGaqrL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/410eVXGaqrL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "price":"$19.99"
+      },
+      {
+         "asin":"B01DFKC6CQ",
+         "title":"Certified Refurbished Echo Dot (2nd Generation) - White",
+         "parentAsin":"B06XDD27LJ",
+         "description":"• A Certified Refurbished Echo Dot is refurbished, tested, and certified to look and work like new\n• Echo Dot (2nd Generation) is a hands-free, voice-controlled device that uses Alexa to play music, control smart home devices, make calls, send and receive messages, provide information, read the news, set alarms, read audiobooks from Audible, and more\n• Connects to speakers or headphones through Bluetooth or 3.5 mm stereo cable to play music from Amazon Music, Spotify, Pandora, iHeartRadio, and TuneIn\n• Introducing Alexa calling and messaging, a new way to be together with family and friends. Just ask Alexa to call or message anyone with an Echo, Echo Dot, or the Alexa App.\n• Controls lights, fans, switches, thermostats, garage doors, sprinklers, locks, and more with compatible connected devices from WeMo, Philips Hue, Samsung SmartThings, Nest, ecobee, and others\n• Hears you from across the room with 7 far-field microphones for hands-free control, even in noisy environments or while playing music\n• Includes a built-in speaker so it can work on its own as a smart alarm clock in the bedroom, an assistant in the kitchen, or anywhere you might want a voice-controlled computer; Amazon Echo is not required to use Echo Dot\n• Always getting smarter and adding new features, plus thousands of skills like Uber, Domino's, and more",
+         "ratingCount":2634,
+         "rating":4,
+         "ratingExact":4.2,
+         "reviewLink":"/Certified-Refurbished-Echo-Dot-Generation/dp/B01DFKC6CQ/ref=sr_1_11/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-11&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Jan 1, 2014",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Certified-Refurbished-Echo-Dot-Generation/dp/B01DFKC6CQ/ref=sr_1_11/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-11&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B01DFKC6CQ",
+               "binding":"",
+               "price":"$29.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/41pH1YS3UML._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/41pH1YS3UML._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "listPrice":"$39.99",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/51wft6OJojL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/61RrCPRq7mL._AC_.jpg",
+         "price":"$29.99"
+      },
+      {
+         "asin":"B01K9KW576",
+         "title":"Amazon Echo Dot Case (fits Echo Dot 2nd Generation only) - Sandstone Fabric",
+         "parentAsin":"B01LW1MS9C",
+         "description":"• Available in six styles to complement any room\n• Nylon woven fabric or full-grain leather wrapped case\n• Designed for a precise fit around your device\n• Provides access to all ports and buttons and full view of the light ring from any angle\n• Compatible with Echo Dot 2nd Generation only",
+         "ratingCount":1780,
+         "rating":5,
+         "ratingExact":4.5,
+         "reviewLink":"/Amazon-Echo-Case-fits-Generation/dp/B01K9KW576/ref=sr_1_12/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-12&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Nov 4, 2016",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Amazon-Echo-Case-fits-Generation/dp/B01K9KW576/ref=sr_1_12/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-12&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B01K9KW576",
+               "binding":"",
+               "price":"$4.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/51gW3pJELZL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/51gW3pJELZL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "listPrice":"$9.99",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/4120IjwpTaL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/61HtIazY6JL._AC_.jpg",
+         "price":"$4.99"
+      },
+      {
+         "asin":"B01K9KW9A4",
+         "title":"Amazon Echo Dot Case (fits Echo Dot 2nd Generation only) - Charcoal Fabric",
+         "parentAsin":"B01LW1MS9C",
+         "description":"• Available in six styles to complement any room\n• Nylon woven fabric or full-grain leather wrapped case\n• Designed for a precise fit around your device\n• Provides access to all ports and buttons and full view of the light ring from any angle\n• Compatible with Echo Dot 2nd Generation only",
+         "ratingCount":1780,
+         "rating":5,
+         "ratingExact":4.5,
+         "reviewLink":"/Amazon-Echo-Case-fits-Generation/dp/B01K9KW9A4/ref=sr_1_13/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-13&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Nov 4, 2016",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Amazon-Echo-Case-fits-Generation/dp/B01K9KW9A4/ref=sr_1_13/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-13&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B01K9KW9A4",
+               "binding":"",
+               "price":"$4.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/51jQ2Nkcr4L._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/51jQ2Nkcr4L._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "listPrice":"$9.99",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/4120IjwpTaL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/61HtIazY6JL._AC_.jpg",
+         "price":"$4.99"
+      },
+      {
+         "asin":"B06ZZY14LK",
+         "title":"Echo Spot Adjustable Stand - Black",
+         "parentAsin":"B0766BSFJJ",
+         "description":"• Place on a table or counter and easily adjust Echo Spot's viewing angle\n• Quick and secure magnetic attachment to Echo Spot\n• Available in two colors",
+         "ratingCount":463,
+         "rating":5,
+         "ratingExact":4.6,
+         "reviewLink":"/Echo-Spot-Adjustable-Stand-Black/dp/B06ZZY14LK/ref=sr_1_14/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-14&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Dec 19, 2017",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Echo-Spot-Adjustable-Stand-Black/dp/B06ZZY14LK/ref=sr_1_14/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-14&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B06ZZY14LK",
+               "binding":"",
+               "price":"$19.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/41wmNWH2QwL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/41wmNWH2QwL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/41pwm6XQf6L._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/51lY3ve0JzL._AC_.jpg",
+         "price":"$19.99"
+      },
+      {
+         "asin":"B01K9KW56M",
+         "title":"Amazon Echo Dot Case (fits Echo Dot 2nd Generation only) - Saddle Tan Leather",
+         "parentAsin":"B01LW1MS9C",
+         "description":"• Available in six styles to complement any room\n• Nylon woven fabric or full-grain leather wrapped case\n• Designed for a precise fit around your device\n• Provides access to all ports and buttons and full view of the light ring from any angle\n• Compatible with Echo Dot 2nd Generation only\n• Each leather case is unique with natural variations in color and texture",
+         "ratingCount":1783,
+         "rating":5,
+         "ratingExact":4.5,
+         "reviewLink":"/Amazon-Echo-Case-fits-Generation/dp/B01K9KW56M/ref=sr_1_15/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-15&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Nov 4, 2016",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Amazon-Echo-Case-fits-Generation/dp/B01K9KW56M/ref=sr_1_15/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-15&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B01K9KW56M",
+               "binding":"",
+               "price":"$5.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/41vqSQY+QAL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/41vqSQY+QAL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "listPrice":"$19.99",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/4120IjwpTaL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/61HtIazY6JL._AC_.jpg",
+         "price":"$5.99"
+      },
+      {
+         "asin":"B072C4KCQH",
+         "title":"Echo Buttons (2 Buttons Per Pack)",
+         "description":"• Echo Buttons an interactive way to play games through your compatible Echo device\n• Try an exciting game night with a catalog of more than 60 compatible Alexa Skills such as Trivial Pursuit Tap by Hasbro, Hanagram, Button Monte, and Don't Cut that Wire. Just ask \"Alexa, what games can I play with my Echo Buttons?\"\n• Personalize your own skill in minutes. With the Alexa Skills Blueprint, Game Show, you can customize your own Echo Button trvia game with facts about your friends, family, or favorite topic.\n• Easy setup with an Echo (1st and 2nd Gen), Echo Dot, Echo Show, Echo Plus, or Echo Spot. Just ask, \"Alexa, setup my Echo Buttons\".\n• Each button illuminates and can be pressed to interact with a variety of play experiences powered by Alexa\n• Connect up to 4 buttons with compatible Echo devices using bluetooth\n• Each Echo Button requires 2 AAA batteries. Includes 4 AAA batteries.",
+         "ratingCount":993,
+         "rating":4,
+         "ratingExact":3.5,
+         "reviewLink":"/Echo-Buttons-2-Pack/dp/B072C4KCQH/ref=sr_1_16/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-16&keywords=amazon+echo#customerReviews",
+         "releaseDate":"Dec 19, 2017",
+         "type":"product",
+         "group":"amazon_home",
+         "brand":"Amazon",
+         "byLine":"by Amazon",
+         "detailPageUrl":"/Echo-Buttons-2-Pack/dp/B072C4KCQH/ref=sr_1_16/135-8566234-2254903?ie=UTF8&qid=1536121285&sr=8-16&keywords=amazon+echo",
+         "isPrimeEligible":true,
+         "variations":[
+            {
+               "asin":"B072C4KCQH",
+               "binding":"",
+               "price":"$19.99"
+            }
+         ],
+         "imageHires":"https://images-na.ssl-images-amazon.com/images/I/419b+5QvNAL._AC_SL800_QL100_.jpg",
+         "imageMedium":"https://images-na.ssl-images-amazon.com/images/I/419b+5QvNAL._AC_SL800_QL100_.jpg",
+         "shipping":"FREE Shipping on eligible orders",
+         "imageAlt0":"https://images-na.ssl-images-amazon.com/images/I/51bUgS0t9vL._AC_SL800_QL100_.jpg",
+         "imageAlt0HiRes":"https://images-na.ssl-images-amazon.com/images/I/616G-90vtTL._AC_.jpg",
+         "price":"$19.99"
+      }
+  ]
+}
